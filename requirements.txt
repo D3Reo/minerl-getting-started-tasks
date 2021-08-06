@@ -3,3 +3,4 @@ minerl
 gym
 tqdm
 opencv-python
+numpy
